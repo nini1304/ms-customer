@@ -1,0 +1,4 @@
+### TEST
+GET http://localhost:7070/customer/test
+###LIST
+GET http://localhost:7070/customer/list
